@@ -1,0 +1,30 @@
+
+                            
+/* TEAM */
+
+                            
+Your title: Vandy Vincent.
+
+                            
+Site: http://vincentvandy.be
+
+                            
+Twitter: @vandyvincent.
+
+                            
+Location: Belgium
+
+
+/* SITE */
+
+                            
+Last update: 2013/04/22 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: javascript, ajax, canvas, php
+
+                            
+Software: sublime text 2
