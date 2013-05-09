@@ -79,7 +79,7 @@
                 break;
         }
 
-    //cest en paper.js qui permet de calculer les images "pixélisées" 
+    //ces script est en paper.js qui permet de calculer les images "pixélisées" 
     //a partir dune image manipulée dans des canvas
     
     echo "
